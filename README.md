@@ -20,6 +20,18 @@ a[2] = 'o'
 
 console.log(a)  // variable
 
+Ex:  let a = 10 
+
+let b = a
+
+let c = b
+
+c = 20
+
+b = 30
+
+console.log(a,b,c)  // 10 30 20
+
 
 
 
