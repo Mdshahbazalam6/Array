@@ -32,6 +32,25 @@ b = 30
 
 console.log(a,b,c)  // 10 30 20
 
+Types of Primitive Data types :
 
+( 1 ) String : String is the sequence of zero or more than zero characters bounded with ( '' ) or ( "" ) quotes.
 
+Ex : 'Rohan', "Rohan", etc.
+
+( 2 ) Number : Number data type represent numbers.
+
+Ex : 1,2,100,4536, etc.
+
+( 3 ) Undefined : in JavaScript Undefined is a special placeholder that Javascript provides the variables in hoisting phase.
+
+Ex : console.log(num) // undefined
+
+     var num = 10
+     
+     console.log(num) // 10
+ 
+( 4 ) Boolean : Boolean accepts only true or false, it is used mostly in if, else conditions.
+
+( 5 ) Null : Null means a variable j=has not been assigned any value its useless, in JavaScript null also represents an empty Object.
 
