@@ -57,3 +57,10 @@ Types of Primitive Data types : Non primitive Data types are derived from Primit
 
 
 * Non Primitive Data type : in JavaSript non primitive data types are derived from primitive data tyes. it is also known as refernce data type.
+  
+    Ex : Array, Objects...
+  
+* Array : in JavaScript Array is data structure which is collection of primitive data types and stored in contiguous memory location.
+
+   Ex : [ 'Rohan', 'Ramesh', 1, 2, 3 ]
+   
